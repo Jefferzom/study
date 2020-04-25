@@ -1,13 +1,12 @@
 # study
-Tarefas, exercícios e testes
 
 Exercício de fixação de criação de ROTAS e CRUD básico
 
-1) CRUD - Básico
-   1 - POST
-   2 - PUT
-   3 - DEL
-   4 - GET
+1) CRUD | 
+   |1 - POST
+   |2 - PUT
+   |3 - DEL
+   |4 - GET
 
 ___________________________________________________________
 2) Criação de Middleware para checar se um "projeto" existe.
@@ -18,7 +17,8 @@ ___________________________________________________________
 
 
 
-Considerações FINAIS:
+Considerações FINAIS
+___________________________________________________________
 Utilizando: Node.JS  |   Insominia para teste de requisições.
 
 
