@@ -2,23 +2,23 @@
 
 Exercício de fixação de criação de ROTAS e CRUD básico
 
-1) CRUD | 
+    CRUD | 
    |1 - POST
    |2 - PUT
    |3 - DEL
    |4 - GET
 
 ___________________________________________________________
-2) Criação de Middleware para checar se um "projeto" existe.
+1) Criação de Middleware para checar se um "projeto" existe.
 ___________________________________________________________
 
-3) Criação de um segundo Middleware para checar o número de requisições das rotas
+2) Criação de um segundo Middleware para checar o número de requisições das rotas
 
 
 
 
-Considerações FINAIS
+3) Considerações FINAIS
 ___________________________________________________________
-Utilizando: Node.JS  |   Insominia para teste de requisições.
+Utilizando: Node.JS  |   Insomnia para teste de requisições.
 
 
